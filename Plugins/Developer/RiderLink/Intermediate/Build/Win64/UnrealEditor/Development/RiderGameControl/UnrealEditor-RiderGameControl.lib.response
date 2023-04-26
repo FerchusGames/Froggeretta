@@ -6,6 +6,6 @@
 /NAME:"UnrealEditor-RiderGameControl.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\RiderGameControl.cpp.obj"
-"C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\Default.rc2.res"
-/OUT:"C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\UnrealEditor-RiderGameControl.lib"
+"C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\RiderGameControl.cpp.obj"
+"C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\Default.rc2.res"
+/OUT:"C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\UnrealEditor-RiderGameControl.lib"

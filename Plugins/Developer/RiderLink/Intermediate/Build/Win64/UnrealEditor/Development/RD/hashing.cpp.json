@@ -1,10 +1,10 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\game dev\\froggeretta\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_framework_cpp\\src\\main\\util\\hashing.cpp",
+        "Source": "c:\\users\\ferchus\\documents\\github\\froggeretta\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_framework_cpp\\src\\main\\util\\hashing.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\game dev\\froggeretta\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+            "c:\\users\\ferchus\\documents\\github\\froggeretta\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

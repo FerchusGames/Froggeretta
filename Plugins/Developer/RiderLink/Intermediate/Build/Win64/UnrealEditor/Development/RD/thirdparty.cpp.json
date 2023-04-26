@@ -1,10 +1,10 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\game dev\\froggeretta\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
+        "Source": "c:\\users\\ferchus\\documents\\github\\froggeretta\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\game dev\\froggeretta\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+            "c:\\users\\ferchus\\documents\\github\\froggeretta\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,4 +1,4 @@
-"C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp"
+C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
 /I .
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -7,17 +7,17 @@
 /I Runtime\Json\Public
 /I Runtime\RenderCore\Public
 /I Runtime\RHI\Public
-/I "C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Source"
+/I C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Source
 /I ThirdParty\mimalloc\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
-/Fo"C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
-/sourceDependencies "C:\Game Dev\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.json"
+/FI"C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
+/Fo"C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+/sourceDependencies C:\Users\Ferchus\Documents\GitHub\Froggeretta\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.json
 /Zc:inline
 /nologo
 /Oi
